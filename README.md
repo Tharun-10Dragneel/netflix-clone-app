@@ -6,7 +6,7 @@
 
 ## **Key features**
 
-- Login/User Profile (fake users) 👤
+- Login/User Profile 👤
 - Main movie selection 🎬
 - "Continue Watching" movies 🔄
 - Video Player 🎥
