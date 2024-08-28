@@ -1,7 +1,5 @@
 # **Overview**
 
-![Preview](https://github.com/matheusmichels/netflix-clone/blob/master/src/assets/images/screenshot.jpg)
-
 <h3 align="center">
 <b>A Netflix app clone made with React Native ⚛</b>
 <h3>
