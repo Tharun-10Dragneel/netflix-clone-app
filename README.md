@@ -13,10 +13,6 @@
 - "Continue Watching" movies 🔄
 - Video Player 🎥
 
-## **Running the app**
-
-Download [Android .apk installer](https://drive.google.com/file/d/10inawU47moywzU_aBOJAqz9MwrJz6Hw-/view)
-
 ## **Installation**
 
 - Clone repository and install dependencies:
@@ -35,16 +31,3 @@ $ react-native run-android
 $ react-native run-ios
 ```
 
-## **How to sign in app**
-
-- You can sign in with 2 fake users:
-
-  - Pablo Escobar:
-
-    - Email: pablo@escobar.com
-    - Password: pablo123
-
-  - Michael Scofield
-
-    - Email: michael@scofield.com
-    - Password: michael123
